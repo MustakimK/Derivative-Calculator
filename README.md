@@ -15,8 +15,8 @@ The Derivative Calculator is a Haskell module designed to symbolically compute d
 2. Navigate to the project directory
 3. Load the module
 ```bash
-`ghci`
-`:load DerivativeCalc`
+ghci
+:load DerivativeCalc
 ```
 
 
